@@ -1,1 +1,1 @@
-Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:[],index:[],modul:[],page:[],search:[]},titles:["Testing testGitHub :)"],titleterms:{indic:[],tabl:[],test:0,testgithub:0}})
+Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:[],index:[],modul:[],page:[],search:[]},titles:["Testing the tests"],titleterms:{indic:[],tabl:[],test:0,testgithub:[]}})
