@@ -1,10 +1,8 @@
 def comp_is_int(s):
-	temp =  isinstance( s, int )
-	print temp
-	return temp
+   return  isinstance(s, int)
 
 def test_comp_is_int():
-	test_number = 2
-	assert comp_is_int(test_number) == True
+   test_number = 2
+   assert comp_is_int(test_number) == 1
 #FREDRIK WAS HERE >:3   
 
